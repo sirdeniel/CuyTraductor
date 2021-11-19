@@ -1,0 +1,16 @@
+{
+    "terminal.integrated.defaultProfile.windows": "MINGW32", // replace with MINGW64 for 64 bit version
+    "terminal.integrated.profiles.windows":{
+        "MINGW32": {
+            "path": "C:\\msys64\\usr\\bin\\bash.exe",
+            "args": [
+                "--login",
+                "-i"
+            ],
+            "env": {
+                "MSYSTEM": "MINGW32", // replace with MINGW64 for 64 bit version
+                "CHERE_INVOKING": "1"
+            }
+        }
+    }
+}

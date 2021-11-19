@@ -1,0 +1,11 @@
+{
+    "Papago": {
+        "section_title": "Papago keys",
+        "ordered_fields": [
+            "Client ID:",
+            "Client secret:"
+        ],
+        "Client ID:": "",
+        "Client secret:": ""
+    }
+}

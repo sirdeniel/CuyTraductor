@@ -1,0 +1,21 @@
+/* window label {
+    background-color: #898989;
+    font: 15 Montserrat;
+} */
+
+label#lbapptitle {
+    font: 16px Montserrat;
+}
+
+label#lbdocin, label#lbfeedback {
+    /* background-color: #898989; */
+    font: 2.0em Montserrat;
+}
+
+.sectiontitle {
+    /* background-color: #898989; */
+    font: 15px Montserrat;
+}
+
+
+  

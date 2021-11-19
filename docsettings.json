@@ -1,0 +1,16 @@
+{
+    "suffix": "-ES",
+    "from_lang": "Koreano",
+    "to_lang": "Espa\u00f1ol",
+    "selected_provider": "Papago",
+    "supported_providers": [
+        "Papago",
+        "Kakao",
+        "Google"
+    ],
+    "lang_with_codes": {
+        "Espa\u00f1ol": "es",
+        "Koreano": "ko",
+        "Ingl\u00e9s": "en"
+    }
+}
