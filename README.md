@@ -29,7 +29,13 @@ Descargar e instalar [**MSYS2**](https://www.msys2.org/), sigue las instruccione
 Abrir la consola `MSYS2 MinGW 32-bit` y ejecutar la siguiente línea.
 
 ```bash
-pacman -S mingw-w64-i686-gtk3 mingw-w64-i686-glade mingw-w64-i686-python3-gobject mingw-w64-i686-python3-pip 
+pacman -S mingw-w64-i686-gtk3 mingw-w64-i686-glade mingw-w64-i686-python3-gobject mingw-w64-i686-python3-pip mingw-w64-i686-python-lxml
+```
+
+Luego las librerías Python necesarias para este proyecto
+
+```bash
+pip install python-docx googletrans kakaotrans
 ```
 
 Descargar este repositorio o clonarlo con Git.
